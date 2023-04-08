@@ -1,0 +1,6 @@
+message:
+  command: "MessageCommand"
+  listener: "Welcome :)"
+  task: "Message Console and Server"
+
+task-repeat-every: 5
